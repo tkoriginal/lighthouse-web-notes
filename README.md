@@ -2,5 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Tauqueer for the Lighthouse Labs Web Development Bootcamp.
-[Tauqueer]https://github.com/tkoriginal
+This repository contains all of the notes taken by [Tauqueer](https://github.com/tkoriginal) for the Lighthouse Labs Web Development Bootcamp.
